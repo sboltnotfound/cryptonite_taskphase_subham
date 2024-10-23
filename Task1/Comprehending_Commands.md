@@ -25,7 +25,7 @@ pretty simple, just used what it asked, rm!
 pretty simple, just used what it asked, ls -a!
 
 # an epic filesystem quest
-This question was annoying as hell, it was simple but just annoying, used ls, cat, cd.
+This question was annoying as hell, it was simple but just annoying, used ls, cat, cd. [In between i thought i was doing smth wrong but nvm patience worked ig]
 
 # making directories
 pretty simple mkdir!
