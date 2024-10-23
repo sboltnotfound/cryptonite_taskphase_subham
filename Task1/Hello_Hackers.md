@@ -1,8 +1,8 @@
-#Hello Hackers
+# Hello Hackers
 
-#intro to commands:
+# intro to commands:
 pretty simple just did what it asked to. (hello)
 
 
-#Intro to arguments:
+# Intro to arguments:
 just did what it asked to. (hello hackers)
