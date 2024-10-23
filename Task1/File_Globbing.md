@@ -15,5 +15,5 @@ pretty simple,just add to add path of the files.
 # Mixing globs
 pretty good question, '[cep]*' glob  would result into challenging, educational, pwning as no other words starting with c,e,p were there.
 
-#Exclusionary globbing
+# Exclusionary globbing
 similar to last problem, just the only difference is using '^' to not the search.
