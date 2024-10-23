@@ -23,5 +23,5 @@ Similar process, just had to use './challenge/run'
 similar process, just had to go to the directory of challenge then using './run' as directly using 'run' wont be allowed as its a safety measure for not accidentaly running commands [suppose same file and same utility command name]
 
 # Home sweet home!
-initially i tried going to smth like /tmp or smth, but relaised it counted '/' as a character as well, so then i had a cool thought what if i pass '~' as argument. i did that but it was not reading it back to me and saying its a directory, hence then i tried '~/~' which soled the proble by going to /home/hacker/~.
+initially i tried going to smth like /tmp or smth, but relaised it counted '/' as a character as well, so then i had a cool thought what if i pass '~ ' as argument. i did that but it was not reading it back to me and saying its a directory, hence then i tried '~ /~ ' which soled the proble by going to /home/hacker/~.
 
